@@ -1,13 +1,11 @@
 <div align="center">
 
-<!-- Аниме-гифка в шапке профиля -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1eDZtZzdybng2aHlwNXNxcWZ3ZHRzZmpxOGdqdmsxdGFoOGV1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvIWwpVYz/giphy.gif" width="100%" height="280px" style="object-fit: cover;" alt="Chill Anime Coding" />
-
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9sbm5vZG1jb2ZsbXM2bjcyaHppcjZmNHdvazF1cXY0YXp3dHRoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qbmjPU9cdaKkM/giphy.gif" width="100%" />
 # ⚡ procosttt
 
 *Quietly building backend stuff & exploring cybersecurity.*
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_логин_в_тг)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/procost)
 [![Status](https://img.shields.io/badge/Status-Learning_%26_Building-green?style=for-the-badge)]()
 
 </div>
@@ -40,8 +38,7 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=procosttt&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=procosttt&layout=compact&theme=dark&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=procosttt&theme=dark&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
