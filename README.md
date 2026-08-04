@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9sbm5vZG1jb2ZsbXM2bjcyaHppcjZmNHdvazF1cXY0YXp3dHRoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qbmjPU9cdaKkM/giphy.gif" width="100%" />
-# ⚡ procosttt
+⚡ procosttt
 
 *Quietly building backend stuff & exploring cybersecurity.*
 
@@ -31,16 +31,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=procosttt&theme=dark&hide_border=true" alt="GitHub Streak" />
-
-</div>
 
 ---
 
