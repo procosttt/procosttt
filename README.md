@@ -18,7 +18,6 @@
 
 * 🐍 **Focus:** Python Backend Development & Telegram Ecosystem (Bots + Mini Apps).
 * 🛡 **Goal:** CyberSecurity, Network Protocol Analysis & OSINT Scripts.
-* 🎧 **Vibe:** Late-night coding sessions, Anime & Lo-Fi soundtrack.
 * 📈 **Current Tech Stack:** `aiogram 3.x`, `aiosqlite`, `python-dotenv`, `Git`, `HTML/CSS`.
 
 ---
