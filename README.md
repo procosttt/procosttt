@@ -2,7 +2,7 @@
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9sbm5vZG1jb2ZsbXM2bjcyaHppcjZmNHdvazF1cXY0YXp3dHRoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qbmjPU9cdaKkM/giphy.gif" width="100%" />
 
-# ⚡ Maxim Zanozin
+# ⚡ procost
 
 *Building modern web applications, backend systems & exploring cybersecurity.*
 
